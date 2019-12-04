@@ -10,19 +10,12 @@ tag:
 star: true
 category: blog
 author: Abdulla Elsayed
-description: thoracic surgery patient survival
+description: thoracic surgery patient survival djhacvhfsdjkdcksd
 ---
 
 ##  scientiic facts
 
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
-
+adfsbbcsbc ndnznc
 ---
 
 ## Headings
