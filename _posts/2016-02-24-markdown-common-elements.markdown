@@ -1,19 +1,19 @@
 ---
-title: "Markdown Common Elements"
+title: "thoracic surgery"
 layout: post
 date: 2016-02-24 22:44
-image: /assets/images/markdown.jpg
+image: /assets/images/ana.jpg
 headerImage: false
 tag:
 - markdown
 - elements
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: Abdulla Elsayed
+description: thoracic surgery patient survival
 ---
 
-## Basic formatting
+##  scientiic facts
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
